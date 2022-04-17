@@ -2,7 +2,7 @@
 
 # Created by Peter Gemmell
 # Created on April 2022
-# This program calculates the circumference of a circle using constants
+# This program calculates factorials
 
 def main():
     # this function calculates factorials
