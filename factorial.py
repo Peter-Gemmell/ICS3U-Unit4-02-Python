@@ -4,6 +4,7 @@
 # Created on April 2022
 # This program calculates factorials
 
+
 def main():
     # this function calculates factorials
     counter = 1
